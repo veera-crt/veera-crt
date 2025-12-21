@@ -1,60 +1,69 @@
 <div align="center">
-  
-  <!-- Header Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:00ccff&height=220&section=header&text=Veera&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Creative%20Developer%20&descAlignY=51&descAlign=62" width="100%"/>
 
-  <!-- Typing Effect -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Coding+the+Future;Building+Modern+Experiences;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
+<!-- Modern Minimalist Header -->
+<h1>Hi, I'm Veera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-  <!-- Trophies (Achievements) -->
-  <br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=veera-crt&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="veera-crt" />
-  </a>
-  <br/><br/>
+<h3 style="color: #8b949e;">Building Digital Products, Brands, and Experiences.</h3>
 
-  <!-- Socials / Connect (Glowing Icons) -->
+<!-- Simple Professional Typing Intro -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Creative+Thinker;Open+Source+Enthusiast" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- Introduction Text -->
+<p align="center" style="max-width: 600px; line-height: 1.6;">
+  I design and code beautifully simple things, and I love what I do. <br/>
+  Focused on building scalable, performant web applications with modern technologies.
+</p>
+
+<br/>
+
+<!-- Tech Stack - Categorized & Clean -->
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <b>Languages</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css&theme=dark" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <b>Frameworks</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,django,tailwind&theme=dark" />
+    </td>
+     <td align="center" style="padding: 10px;">
+      <b>Tools</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,linux&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Stats Section - Transparent & Clean -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=veera-crt&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera-crt&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9" height="150" alt="Languages" />
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=veera-crt&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true&area=true" width="90%" />
+
+<br/><br/>
+
+<!-- Minimalist Footer -->
+<p align="center">
   <a href="https://github.com/veera-crt">
-    <img src="https://skillicons.dev/icons?i=github,linkedin,twitter,instagram,discord&theme=dark" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <br/><br/>
-
-  <!-- Tech Stack (Detailed & Animated) -->
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,python,flask,postgres,git,docker,vscode,figma&theme=dark&perline=7" />
-  
-  <br/><br/>
-
-  <!-- Stats Cards -->
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=veera-crt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=00FF99&title_color=00FF99&text_color=FFFFFF" height="180" alt="Veera's Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera-crt&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=FFFFFF" height="180" alt="Top Languages" />
-  </div>
-
-  <br/>
-
-  <!-- Activity Graph (Neon Style) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veera-crt&bg_color=0D1117&color=00FF99&line=00ccff&point=ffffff&hide_border=true" />
-  
-  <br/><br/>
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veera-crt&theme=radical&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" alt="Streak Stats" />
-
-  <br/><br/>
-
-  <!-- Random Dev Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-  <br/><br/>
-
-  <!-- Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=veera-crt&style=flat-square&color=00ff99&label=PROFILE+VIEWS" alt="Profile Views" />
-
-  <br/><br/>
-
-  <!-- Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ccff,100:00ff99&height=100&section=footer" width="100%"/>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/veera-crt">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 </div>
