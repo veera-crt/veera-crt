@@ -48,6 +48,12 @@ graph LR
     F --> G[Offensive]
     G --> H[Defensive]
     H --> I[Ethical Hacker]
+
+    classDef done fill:#2e7d32,stroke:#fff,stroke-width:2px,color:#fff
+    classDef current fill:#1a1b26,stroke:#7aa2f7,stroke-width:1px,color:#7aa2f7
+    
+    class A,B,C,D,E done
+    class F,G,H,I current
 ```
 
    </td>
