@@ -1,25 +1,23 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/veera-crt/veera-crt/main/github_profile_banner.png" alt="Veerapandi G Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=VEERAPANDI%20G&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
   
   <br/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=9146FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Veerapandi+G+👋;Cybersecurity+Specialist+🛡️;Full+Stack+Developer+💻;AI+Innovation+Enthusiast+🤖;Continuous+Learner+🚀" alt="Typing SVG" />
-  
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=9146FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Specialist+🛡️;Full+Stack+Developer+💻;AI+Innovation+Enthusiast+🤖;Continuous+Learner+🚀" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=veera-crt&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Cybersecurity-black?style=for-the-badge&logo=forcepoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Fullstack-black?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AI-black?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZzJreG9qZzJreG9qZzJreG9qZzJreG9qZzJreG9qZzJmJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L05HoXqCixKjXwEqTz/giphy.gif" width="100%" alt="Cyberpunk Code Rain" />
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="100%" />
 
 ### 🚀 About Me
 
 <div align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZzJreG9qZzJreG9qZzJreG9qZzJreG9qZzJreG9qZzJmJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera-crt&layout=compact&theme=tokyonight&hide=html,css" align="right" />
 </div>
 
 I am a **B.Tech Computer Science student** specializing in **Cybersecurity** at **SRM University**. I'm passionate about building secure, scalable applications and integrating AI to solve real-world problems. Whether it's crafting interactive portfolios or developing encrypted password managers, I thrive on the intersection of security and creativity.
@@ -113,24 +111,20 @@ I am a **B.Tech Computer Science student** specializing in **Cybersecurity** at 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9146FF&center=true&vCenter=true&width=400&lines=Let's+Connect!+🤝" alt="Connect Title" />
 </div>
 
-<div align="center">
-  <a href="https://veeraatechy.online" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/veerapandi-g-50bb06297/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://youtube.com/@cybvars" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:veeraatcyber@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+<p align="center">
+  <a href="https://veeraatechy.online" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/veerapandi-g-50bb06297/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://youtube.com/@cybvars" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="mailto:veeraatcyber@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 <div align="center">
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=veera-crt&theme=tokyonight&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=veera-crt&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
