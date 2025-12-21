@@ -1,12 +1,15 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/veera-crt/veera-crt/main/github_profile_banner.png" alt="Veerapandi G Banner" width="100%">
+  
+  <br/>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=9146FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Veerapandi+G+👋;Cybersecurity+Specialist+🛡️;Full+Stack+Developer+💻;AI+Innovation+Enthusiast+🤖;Continuous+Learner+🚀" alt="Typing SVG" />
+  
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="100%" />
 </div>
 
 <div align="center">
-  <h1>Hey there! I'm Veerapandi G 👋</h1>
-  <p>
-    <strong>Cybersecurity Enthusiast | Full Stack Developer | AI Innovator</strong>
-  </p>
+  <img src="https://github-profile-trophy.vercel.app/?username=veera-crt&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -17,22 +20,22 @@ I am a **B.Tech Computer Science student** specializing in **Cybersecurity** at 
 
 - 🛡️ Specializing in **Cybersecurity & Ethical Hacking**.
 - 💻 Full Stack Development with a focus on modern UI/UX.
-- 🤖 Integrating AI/ML into web applications (Check out my AI assistant "Veeru!").
+- 🤖 Integrating AI/ML into web applications.
 - ✍️ Active content creator on YouTube and my personal blog.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="100%" />
 
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,linux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,linux,docker,aws,figma&theme=dark" alt="Tech Stack" />
 </div>
 
 #### 🔐 Cybersecurity Arsenal:
 - **AES-256 Encryption** | **Multi-Factor Authentication** | **Network Security**
 - **Vulnerability Assessment** | **Secure Coding Practices**
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="100%" />
 
 ### 📊 GitHub Stats & Progress
 
@@ -48,6 +51,8 @@ I am a **B.Tech Computer Science student** specializing in **Cybersecurity** at 
     </tr>
   </table>
   <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veera-crt&theme=tokyonight" width="100%" alt="Activity Graph" />
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=veera-crt&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
@@ -61,6 +66,8 @@ I am a **B.Tech Computer Science student** specializing in **Cybersecurity** at 
   </picture>
 </div>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="100%" />
+
 ---
 
 ### 📜 Certifications & Achievements
@@ -73,15 +80,32 @@ I am a **B.Tech Computer Science student** specializing in **Cybersecurity** at 
 
 ### 🌟 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[AI Portfolio (Veeru!)](https://github.com/veera-crt/VEERAPANDI_PORTFOLIO)** | Interactive portfolio featuring a custom AI chat widget. | React, Node.js, AI API |
-| **[Password Secure Manager](https://github.com/veera-crt/Password-Secure-Manager)** | High-security vault with AES-256 encryption & MFA. | Java, Cryptography |
-| **[Online Voting System](https://github.com/veera-crt/ONLINE-VOTING-SYSTEM-)** | Secure system for digital elections. | C, Data Structures |
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/veera-crt/VEERAPANDI_PORTFOLIO">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=veera-crt&repo=VEERAPANDI_PORTFOLIO&theme=tokyonight&show_owner=true" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/veera-crt/Password-Secure-Manager">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=veera-crt&repo=Password-Secure-Manager&theme=tokyonight&show_owner=true" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 🤝 Connect with Me
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9146FF&center=true&vCenter=true&width=700&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.;First%2C+solve+the+problem.+Then%2C+write+the+code.;Simplicity+is+the+soul+of+efficiency.;Experience+is+the+name+everyone+gives+to+their+mistakes." alt="Tech Quote" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9146FF&center=true&vCenter=true&width=400&lines=Let's+Connect!+🤝" alt="Connect Title" />
+</div>
 
 <div align="center">
   <a href="https://veeraatechy.online" target="_blank">
@@ -98,9 +122,10 @@ I am a **B.Tech Computer Science student** specializing in **Cybersecurity** at 
   </a>
 </div>
 
-<br>
-
 <div align="center">
+  <br/>
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=30" width="100%" />
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=veera-crt&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
 
