@@ -40,7 +40,7 @@
 
 <br/>
 
-<!-- Stats Section - Transparent & Clean -->
+<!-- Stats Section - Simple & Clean -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=veera-crt&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF" height="150" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera-crt&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9" height="150" alt="Languages" />
@@ -48,8 +48,15 @@
 
 <br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=veera-crt&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true&area=true" width="90%" />
+<!-- Contribution Bar Charts Section -->
+<!-- Using Profile Summary Cards for Bar Chart Visualization -->
+<div align="center">
+  <!-- Profile Details (Horizontal Bars) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veera-crt&theme=transparent" alt="Profile Details" />
+  <br/>
+  <!-- Productive Time (Histogram/Bar Chart) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=veera-crt&theme=transparent&utcOffset=5.5" alt="Productive Time" />
+</div>
 
 <br/><br/>
 
