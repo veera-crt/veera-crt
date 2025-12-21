@@ -56,6 +56,8 @@ I am a **B.Tech Computer Science student** specializing in **Cybersecurity** at 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=veera-crt&theme=tokyonight&area=true&highlight_color=9146FF" width="100%" alt="Activity Graph" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=veera-crt&theme=tokyonight&fire=9146FF" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veera-crt&theme=tokyonight" width="100%" />
 </div>
 
 <br>
