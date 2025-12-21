@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- DYNAMIC HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=VEERAPANDI&fontSize=80&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Cybersecurity%20Engineer%20|%20DevSecOps%20|%20Digital%20Architect&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1a1b26,7aa2f7,bb9af7&height=220&section=header&text=VEERAPANDI&fontSize=80&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Engineering%20Safety%20in%20a%20Digital%20World&descAlignY=65&descAlign=50" width="100%"/>
 
 <br/>
 
-<img src="./cyber_status.svg" width="220" />
+### 🛡️ Cybersecurity Engineer | DevSecOps | Digital Architect
 
-<br/><br/>
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/PERSONAL-PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://veerapandig.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/veera-crt)
@@ -20,7 +20,7 @@
 <table width="100%">
   <tr>
     <td align="center" style="background: linear-gradient(135deg, #1a1b26 0%, #16161e 100%); border-radius: 20px; padding: 30px; border: 1px solid #333;">
-      <h3 style="color: #7aa2f7; font-family: 'SF Pro Display', sans-serif; letter-spacing: 2px;">THE OPERATION</h3>
+      <h3 style="color: #7aa2f7; letter-spacing: 2px;">THE OPERATION</h3>
       <p style="color: #a9b1d6; font-size: 1.1em; line-height: 1.6;">
         "I transform complex real-time systems into remote, digital, and safe security products. <br/> 
         Engineering trust at the intersection of <b style="color: #f7768e;">Cybersecurity</b> and <b style="color: #7dcfff;">DevSecOps</b>."
@@ -31,14 +31,26 @@
 
 <br/>
 
-<!-- ROADMAP SECTION -->
+<!-- ROADMAP SECTION (Native Mermaid) -->
 <table width="100%">
   <tr>
     <td align="center" style="background: #1a1b26; border-radius: 20px; padding: 25px; border: 1px solid #30363d;">
       <h3 style="color: #bb9af7;">CYBER DEFENSE ROADMAP</h3>
       <br/>
-      <img src="https://mermaid.ink/svg/pako:eNpVj0kOwjAMRa8SWRsk3OAIWLBhS_YxTuI0mEqiOFEVCHG37KgsP_m_Z_unM6pTBy_yQ7W9BvK-j_S2pG3N6T7UexvIe_v67OQ9mO4w_4e1NfF-o_G-m-XpIdonTbeD6XasD836_f6vTbeTeLeR-MvU-m_T1jS9e_N20Xhf733S9pXG-7fG-6vG-67G-7f-m8_T-W68_0XU9uY6Wv_p-uO9R1t_8_H9uU_T-W48_9_nfwC7mmiE" width="100%" />
-    </td>
+
+```mermaid
+graph LR
+    A[Hardware] --> B[Network]
+    B --> C[OS / Linux]
+    C --> D[Net Security]
+    D --> E[GRC / Audit]
+    E --> F[Vulnerability]
+    F --> G[Offensive]
+    G --> H[Defensive]
+    H --> I[Ethical Hacker]
+```
+
+   </td>
   </tr>
 </table>
 
@@ -70,12 +82,12 @@
       <h3 align="center" style="color: #9ece6a;">🎓 ACADEMICS</h3>
       <hr style="border: 0.5px solid #30363d;"/>
       <div align="left" style="color: #a9b1d6;">
-        <p><b>Sem 1:</b> 7.82 <img src="https://geps.dev/progress/78?gradientColor=7aa2f7,bb9af7" width="100" /></p>
-        <p><b>Sem 2:</b> 8.48 <img src="https://geps.dev/progress/85?gradientColor=7aa2f7,bb9af7" width="100" /></p>
-        <p><b>Sem 3:</b> 8.96 <img src="https://geps.dev/progress/90?gradientColor=7aa2f7,bb9af7" width="100" /></p>
-        <p><b>Sem 4:</b> 9.35 <img src="https://geps.dev/progress/94?gradientColor=7aa2f7,bb9af7" width="100" /></p>
+        <p><b>Sem 1:</b> 7.82 <img src="https://img.shields.io/badge/SGPA-7.82-7aa2f7?style=flat" /></p>
+        <p><b>Sem 2:</b> 8.48 <img src="https://img.shields.io/badge/SGPA-8.48-7aa2f7?style=flat" /></p>
+        <p><b>Sem 3:</b> 8.96 <img src="https://img.shields.io/badge/SGPA-8.96-7aa2f7?style=flat" /></p>
+        <p><b>Sem 4:</b> 9.35 <img src="https://img.shields.io/badge/SGPA-9.35-7aa2f7?style=flat" /></p>
         <p><b>Sem 5:</b> Loading... <img src="https://raw.githubusercontent.com/n-m-t/n-m-t/master/loading.gif" width="16" /></p>
-        <p align="center"><b>CGPA: 8.64 / 10</b></p>
+        <p align="center"><b>Total CGPA: 8.64 / 10</b></p>
       </div>
     </td>
   </tr>
@@ -123,4 +135,5 @@
 </p>
 
 </div>
+
 
