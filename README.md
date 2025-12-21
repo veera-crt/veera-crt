@@ -31,23 +31,9 @@
 
 <br/><br/>
 
-<!-- Analytics: "Tokyonight" Theme -->
-<table border="0" width="100%">
-<tr>
-<td width="48%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=veera-crt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&rank_icon=github" height="180" alt="Stats" />
-</td>
-<td width="4%" align="center"></td>
-<td width="48%" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=veera-crt&theme=tokyonight&hide_border=true&background=1a1b26" height="180" alt="Streak" />
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Activity: Matching Custom Palette -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=veera-crt&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=e0af68&hide_border=true&area=true" width="95%" />
+<!-- METRICS SECTION: Replaces simple stats with the generated Advanced Metrics Image -->
+<!-- This image will appear after the GitHub Action runs successfully -->
+<img src="https://github.com/veera-crt/veera-crt/blob/main/github-metrics.svg?raw=true" alt="Comprehensive GitHub Metrics" width="95%" />
 
 <br/><br/>
 
