@@ -1,12 +1,7 @@
 <div align="center">
 
-<!-- HEADER SECTION -->
-<p align="center">
-  <img src="./professional_hero.png" width="100%" style="border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.5);" />
-</p>
-
-# 🛡️ VEERAPANDI
-**Cybersecurity Engineer | DevSecOps | Digital Architect**
+<!-- DYNAMIC HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=VEERAPANDI&fontSize=80&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Cybersecurity%20Engineer%20|%20DevSecOps%20|%20Digital%20Architect&descAlignY=60&descAlign=50" width="100%"/>
 
 <br/>
 
@@ -24,11 +19,11 @@
 <!-- MISSION SECTION -->
 <table width="100%">
   <tr>
-    <td align="center" style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%); border-radius: 20px; padding: 30px; border: 1px solid #333;">
+    <td align="center" style="background: linear-gradient(135deg, #1a1b26 0%, #16161e 100%); border-radius: 20px; padding: 30px; border: 1px solid #333;">
       <h3 style="color: #7aa2f7; font-family: 'SF Pro Display', sans-serif; letter-spacing: 2px;">THE OPERATION</h3>
-      <p style="color: #888; font-size: 1.1em; line-height: 1.6;">
+      <p style="color: #a9b1d6; font-size: 1.1em; line-height: 1.6;">
         "I transform complex real-time systems into remote, digital, and safe security products. <br/> 
-        Engineering trust at the intersection of <b>Cybersecurity</b> and <b>DevSecOps</b>."
+        Engineering trust at the intersection of <b style="color: #f7768e;">Cybersecurity</b> and <b style="color: #7dcfff;">DevSecOps</b>."
       </p>
     </td>
   </tr>
@@ -39,10 +34,10 @@
 <!-- ROADMAP SECTION -->
 <table width="100%">
   <tr>
-    <td align="center" style="background: #0d1117; border-radius: 20px; padding: 25px; border: 1px solid #30363d;">
+    <td align="center" style="background: #1a1b26; border-radius: 20px; padding: 25px; border: 1px solid #30363d;">
       <h3 style="color: #bb9af7;">CYBER DEFENSE ROADMAP</h3>
       <br/>
-      <img src="https://mermaid.ink/svg/pako:eNqNkk9vwiAYxr8K6VkTLP_F0-rR7GZicZfNpsfKAmqL0IDM2Y_vA9Mue9pAn_ee_D48vIAtqKIFK7S2pXWAbY-1-8xatN6W1jFeWusZq7_RAtbe4_FhV0oXjRj8bXatZ5fSRePGun8H9vR9mUvpu7Ge_R_Yy_YyU6X02VjP_g_sz_YyY6X00Vjb5A2t-AtrPyMVaE_rB-i8jLRLA7Te1i6Hh_9X1D2u3_4eOit3S2uX_vIfr_sYn-pP61_87X-jT_Kpv_1v6Y3_Xf-q-vY_V_P7B7M6XNc" width="100%" />
+      <img src="https://mermaid.ink/svg/pako:eNpVj0kOwjAMRa8SWRsk3OAIWLBhS_YxTuI0mEqiOFEVCHG37KgsP_m_Z_unM6pTBy_yQ7W9BvK-j_S2pG3N6T7UexvIe_v67OQ9mO4w_4e1NfF-o_G-m-XpIdonTbeD6XasD836_f6vTbeTeLeR-MvU-m_T1jS9e_N20Xhf733S9pXG-7fG-6vG-67G-7f-m8_T-W68_0XU9uY6Wv_p-uO9R1t_8_H9uU_T-W48_9_nfwC7mmiE" width="100%" />
     </td>
   </tr>
 </table>
@@ -52,7 +47,7 @@
 <!-- MIDDLE GRID -->
 <table width="100%">
   <tr>
-    <td width="50%" valign="top" style="background: #0d1117; border-radius: 20px; padding: 20px; border: 1px solid #30363d;">
+    <td width="50%" valign="top" style="background: #1a1b26; border-radius: 20px; padding: 20px; border: 1px solid #30363d;">
       <h3 align="center" style="color: #7dcfff;">⚡ TECH STACK</h3>
       <hr style="border: 0.5px solid #30363d;"/>
       <p align="center">
@@ -67,14 +62,14 @@
       <br/>
       <h3 align="center" style="color: #7dcfff;">📜 CERTIFICATIONS</h3>
       <hr style="border: 0.5px solid #30363d;"/>
-      <p><b>ACTIVE:</b> (ISC)² CC <img src="https://img.shields.io/badge/IN--PROGRESS-238636?style=flat" /></p>
-      <p><b>NPTEL:</b> System Security | Ethical Hacker | Java</p>
-      <p><b>UPCOMING:</b> CEH, ISO 27001, ITIL</p>
+      <p style="color: #a9b1d6;"><b>ACTIVE:</b> (ISC)² CC <img src="https://img.shields.io/badge/IN--PROGRESS-238636?style=flat" /></p>
+      <p style="color: #a9b1d6;"><b>NPTEL:</b> System Security | Ethical Hacker | Java</p>
+      <p style="color: #a9b1d6;"><b>UPCOMING:</b> CEH, ISO 27001, ITIL</p>
     </td>
-    <td width="50%" valign="top" style="background: #0d1117; border-radius: 20px; padding: 20px; border: 1px solid #30363d;">
+    <td width="50%" valign="top" style="background: #1a1b26; border-radius: 20px; padding: 20px; border: 1px solid #30363d;">
       <h3 align="center" style="color: #9ece6a;">🎓 ACADEMICS</h3>
       <hr style="border: 0.5px solid #30363d;"/>
-      <div align="left">
+      <div align="left" style="color: #a9b1d6;">
         <p><b>Sem 1:</b> 7.82 <img src="https://geps.dev/progress/78?gradientColor=7aa2f7,bb9af7" width="100" /></p>
         <p><b>Sem 2:</b> 8.48 <img src="https://geps.dev/progress/85?gradientColor=7aa2f7,bb9af7" width="100" /></p>
         <p><b>Sem 3:</b> 8.96 <img src="https://geps.dev/progress/90?gradientColor=7aa2f7,bb9af7" width="100" /></p>
@@ -91,14 +86,14 @@
 <!-- EXPERIENCE SECTION -->
 <table width="100%">
   <tr>
-    <td style="background: #0d1117; border-radius: 20px; padding: 25px; border: 1px solid #30363d;">
-      <h3 align="center" style="color: #e0af68;">� PROFESSIONAL FOOTPRINT</h3>
+    <td style="background: #1a1b26; border-radius: 20px; padding: 25px; border: 1px solid #30363d;">
+      <h3 align="center" style="color: #e0af68;">🚀 PROFESSIONAL FOOTPRINT</h3>
       <hr style="border: 0.5px solid #30363d;"/>
-      <div align="left">
+      <div align="left" style="color: #a9b1d6;">
         <p>🔘 <b>Media Team Lead</b> @ IEI Club <small>(Sep 2025 - Present)</small></p>
         <p>🔘 <b>Palo Alto Internship</b> @ Edukills <small>(2025 - 2026)</small></p>
         <p>🔘 <b>TATA Internship</b> @ Forage <small>(2025 - 2026)</small></p>
-        <p>🔘 <b>Technical Member</b> @ NWC Association <small>(Jan 2025 - Dec 2025)</small></p>
+        <p>🔘 <b>Technical Team Member</b> @ NWC Association <small>(Jan 2025 - Dec 2025)</small></p>
         <p>🔘 <b>Content Creator</b> @ [The Joy Of Cyber](https://youtube.com) <small>(Dec 2024 - Present)</small></p>
       </div>
     </td>
@@ -110,13 +105,13 @@
 <!-- ANALYTICS SECTION -->
 <table width="100%">
   <tr>
-    <td align="center" style="background: #0d1117; border-radius: 20px; padding: 25px; border: 1px solid #30363d;">
+    <td align="center" style="background: #1a1b26; border-radius: 20px; padding: 25px; border: 1px solid #30363d;">
       <h3 style="color: #f7768e;">NETWORK ACTIVITY</h3>
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=veera-crt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera-crt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="45%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=veera-crt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="48%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera-crt&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="45%" />
       <br/><br/>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=veera-crt&theme=react-dark&bg_color=0d1117&color=7aa2f7&hide_border=true" width="95%" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=veera-crt&theme=react-dark&bg_color=1a1b26&color=7aa2f7&hide_border=true" width="95%" />
     </td>
   </tr>
 </table>
@@ -128,3 +123,4 @@
 </p>
 
 </div>
+
