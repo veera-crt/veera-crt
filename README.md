@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=VEERAPANDI%20G&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=VEERAPANDI%20G&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
   
   <br/>
   
@@ -7,9 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Cybersecurity-black?style=for-the-badge&logo=forcepoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Fullstack-black?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AI-black?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="100%" />
@@ -55,9 +53,9 @@ I am a **B.Tech Computer Science student** specializing in **Cybersecurity** at 
     </tr>
   </table>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veera-crt&theme=tokyonight" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veera-crt&theme=tokyonight&area=true&highlight_color=9146FF" width="100%" alt="Activity Graph" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veera-crt&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veera-crt&theme=tokyonight&fire=9146FF" alt="GitHub Streak" />
 </div>
 
 <br>
