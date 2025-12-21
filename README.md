@@ -62,11 +62,11 @@ graph LR
 
 <br/>
 
-<!-- MIDDLE GRID -->
+<!-- MIDDLE DASHBOARD -->
 <table width="100%">
   <tr>
-    <td width="50%" valign="top" style="background: #1a1b26; border-radius: 20px; padding: 20px; border: 1px solid #30363d;">
-      <h3 align="center" style="color: #7dcfff;">⚡ TECH STACK</h3>
+    <td width="33%" valign="top" style="background: #1a1b26; border-radius: 20px; padding: 20px; border: 2px solid #ff00ffff;">
+      <h3 align="center" style="color: #ff00ffff;">⚡ TECH STACK</h3>
       <hr style="border: 0.5px solid #30363d;"/>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -77,22 +77,26 @@ graph LR
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
       </p>
-      <br/>
-      <h3 align="center" style="color: #7dcfff;">📜 CERTIFICATIONS</h3>
-      <hr style="border: 0.5px solid #30363d;"/>
-      <p style="color: #a9b1d6;"><b>ACTIVE:</b> (ISC)² CC <img src="https://img.shields.io/badge/IN--PROGRESS-238636?style=flat" /></p>
-      <p style="color: #a9b1d6;"><b>NPTEL:</b> System Security | Ethical Hacker | Java</p>
-      <p style="color: #a9b1d6;"><b>UPCOMING:</b> CEH, ISO 27001, ITIL</p>
     </td>
-    <td width="50%" valign="top" style="background: #1a1b26; border-radius: 20px; padding: 20px; border: 1px solid #30363d;">
-      <h3 align="center" style="color: #9ece6a;">🎓 ACADEMICS</h3>
+    <td width="33%" valign="top" style="background: #1a1b26; border-radius: 20px; padding: 20px; border: 2px solid #ff8800ff;">
+      <h3 align="center" style="color: #ff8800ff;">📜 CERTIFICATIONS</h3>
       <hr style="border: 0.5px solid #30363d;"/>
-      <div align="left" style="color: #a9b1d6;">
+      <p style="color: #a9b1d6; font-size: 0.9em;"><b>ACTIVE:</b> <br/> (ISC)² CC <img src="https://img.shields.io/badge/IN--PROGRESS-238636?style=flat" /></p>
+      <hr style="border: 0.1px solid #30363d;"/>
+      <p style="color: #a9b1d6; font-size: 0.9em;"><b>NPTEL:</b> <br/> System Security | Ethical Hacker | Java</p>
+      <hr style="border: 0.1px solid #30363d;"/>
+      <p style="color: #a9b1d6; font-size: 0.9em;"><b>UPCOMING:</b> <br/> CEH, ISO 27001, ITIL</p>
+    </td>
+    <td width="34%" valign="top" style="background: #1a1b26; border-radius: 20px; padding: 20px; border: 2px solid #00ffffff;">
+      <h3 align="center" style="color: #00ffffff;">🎓 ACADEMICS</h3>
+      <hr style="border: 0.5px solid #30363d;"/>
+      <div align="left" style="color: #a9b1d6; font-size: 0.9em;">
         <p><b>Sem 1:</b> 7.82 <img src="https://img.shields.io/badge/SGPA-7.82-7aa2f7?style=flat" /></p>
         <p><b>Sem 2:</b> 8.48 <img src="https://img.shields.io/badge/SGPA-8.48-7aa2f7?style=flat" /></p>
         <p><b>Sem 3:</b> 8.96 <img src="https://img.shields.io/badge/SGPA-8.96-7aa2f7?style=flat" /></p>
         <p><b>Sem 4:</b> 9.35 <img src="https://img.shields.io/badge/SGPA-9.35-7aa2f7?style=flat" /></p>
-        <p><b>Sem 5:</b> Loading... <img src="https://raw.githubusercontent.com/n-m-t/n-m-t/master/loading.gif" width="16" /></p>
+        <p><b>Sem 5:</b> Loading... <img src="https://raw.githubusercontent.com/n-m-t/n-m-t/master/loading.gif" width="12" /></p>
+        <hr style="border: 0.1px solid #30363d;"/>
         <p align="center"><b>Total CGPA: 8.64 / 10</b></p>
       </div>
     </td>
@@ -104,15 +108,15 @@ graph LR
 <!-- EXPERIENCE SECTION -->
 <table width="100%">
   <tr>
-    <td style="background: #1a1b26; border-radius: 20px; padding: 25px; border: 1px solid #30363d;">
-      <h3 align="center" style="color: #e0af68;">🚀 PROFESSIONAL FOOTPRINT</h3>
+    <td style="background: #1a1b26; border-radius: 20px; padding: 25px; border: 2px solid #ff4444ff;">
+      <h3 align="center" style="color: #ff4444ff; letter-spacing: 2px;">🚀 PROFESSIONAL FOOTPRINT</h3>
       <hr style="border: 0.5px solid #30363d;"/>
       <div align="left" style="color: #a9b1d6;">
-        <p>🔘 <b>Media Team Lead</b> @ IEI Club <small>(Sep 2025 - Present)</small></p>
-        <p>🔘 <b>Palo Alto Internship</b> @ Edukills <small>(2025 - 2026)</small></p>
-        <p>🔘 <b>TATA Internship</b> @ Forage <small>(2025 - 2026)</small></p>
-        <p>🔘 <b>Technical Team Member</b> @ NWC Association <small>(Jan 2025 - Dec 2025)</small></p>
-        <p>🔘 <b>Content Creator</b> @ [The Joy Of Cyber](https://youtube.com) <small>(Dec 2024 - Present)</small></p>
+        <p>🔘 <b>Media Team Lead</b> | IEI Club <small>(Sep 2025 - Present)</small></p>
+        <p>🔘 <b>Palo Alto Internship</b> | Edukills <small>(2025 - 2026)</small></p>
+        <p>🔘 <b>TATA Internship</b> | Forage <small>(2025 - 2026)</small></p>
+        <p>🔘 <b>Technical Team Member</b> | NWC Association <small>(Jan 2025 - Dec 2025)</small></p>
+        <p>🔘 <b>Content Creator</b> | [The Joy Of Cyber](https://youtube.com) <small>(Dec 2024 - Present)</small></p>
       </div>
     </td>
   </tr>
@@ -123,8 +127,8 @@ graph LR
 <!-- GOLDEN ANALYTICS & CONTRIBUTIONS -->
 <table width="100%">
   <tr>
-    <td align="center" style="background: #1a1b26; border-radius: 20px; padding: 25px; border: 2px solid #ffd700;">
-      <h3 style="color: #ffd700; letter-spacing: 2px;">🏆 ACHIEVEMENT CASE</h3>
+    <td align="center" style="background: #1a1b26; border-radius: 20px; padding: 25px; border: 2px solid #3cff00ff;">
+      <h3 style="color: #fcd600ff; letter-spacing: 2px;">🏆 ACHIEVEMENT CASE</h3>
       <br/>
       <img src="https://github-profile-trophy.vercel.app/?username=veera-crt&theme=goldman&column=7&margin-w=15&margin-h=15&no-bg=true" width="100%" />
     </td>
@@ -135,8 +139,8 @@ graph LR
 
 <table width="100%">
   <tr>
-    <td align="center" style="background: #1a1b26; border-radius: 20px; padding: 25px; border: 2px solid #ffd700;">
-      <h3 style="color: #ffd700; letter-spacing: 2px;">🐍 CONTRIBUTION FLOW</h3>
+    <td align="center" style="background: #1a1b26; border-radius: 20px; padding: 25px; border: 2px solid #1beefdff;">
+      <h3 style="color: #1138fdff; letter-spacing: 2px;">🐍 CONTRIBUTION FLOW</h3>
       <br/>
       <img src="https://raw.githubusercontent.com/veera-crt/veera-crt/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Golden Snake Animation" />
     </td>
