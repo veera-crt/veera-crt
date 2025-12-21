@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=VEERAPANDI%20G&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
-  
-  <br/>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=9146FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Specialist+🛡️;Full+Stack+Developer+💻;AI+Innovation+Enthusiast+🤖;Continuous+Learner+🚀" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=9146FF&height=300&section=header&text=VEERAPANDI%20G&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=9146FF&center=true&vCenter=true&width=800&lines=CYBERSECURITY+SPECIALIST+🛡️;FULL+STACK+DEVELOPER+💻;AI+INNOVATION+ENTHUSIAST+🤖;CONTINUOUS+LEARNER+🚀" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -11,6 +11,12 @@
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="100%" />
+
+### 🛠️ LIVE SYSTEM STATUS
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=%5B%3E%5D+Initializing+Secure+Connection...;%5B%3E%5D+Accessing+Mainframe...;%5B%3E%5D+Neural+Network+Online;%5B%3E%5D+Firewall+Bypassed+Successfully;%5B%3E%5D+STATUS%3A+ACTIVE" alt="Status" />
+</div>
+
 
 ### 🚀 About Me
 
@@ -27,17 +33,21 @@ I am a **B.Tech Computer Science student** specializing in **Cybersecurity** at 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="100%" />
 
-### 🛠️ Tech Stack & Skills
+### 🛡️ TECH ARSENAL
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,linux,docker,aws,figma&theme=dark" alt="Tech Stack" />
 </div>
 
-#### 🔐 Cybersecurity Arsenal:
-- **AES-256 Encryption** | **Multi-Factor Authentication** | **Network Security**
-- **Vulnerability Assessment** | **Secure Coding Practices**
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera-crt&layout=compact&theme=tokyonight&hide=html,css" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=veera-crt&show_icons=true&theme=tokyonight&count_private=true" width="45%" />
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="100%" />
+
 
 ### 📊 GitHub Stats & Progress
 
