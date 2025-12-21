@@ -120,16 +120,41 @@ graph LR
 
 <br/>
 
+<!-- GOLDEN ANALYTICS & CONTRIBUTIONS -->
+<table width="100%">
+  <tr>
+    <td align="center" style="background: #1a1b26; border-radius: 20px; padding: 25px; border: 2px solid #ffd700;">
+      <h3 style="color: #ffd700; letter-spacing: 2px;">🏆 ACHIEVEMENT CASE</h3>
+      <br/>
+      <img src="https://github-profile-trophy.vercel.app/?username=veera-crt&theme=goldman&column=7&margin-w=15&margin-h=15&no-bg=true" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td align="center" style="background: #1a1b26; border-radius: 20px; padding: 25px; border: 2px solid #ffd700;">
+      <h3 style="color: #ffd700; letter-spacing: 2px;">🐍 CONTRIBUTION FLOW</h3>
+      <br/>
+      <img src="https://raw.githubusercontent.com/veera-crt/veera-crt/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Golden Snake Animation" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <!-- ANALYTICS SECTION -->
 <table width="100%">
   <tr>
-    <td align="center" style="background: #1a1b26; border-radius: 20px; padding: 25px; border: 1px solid #30363d;">
-      <h3 style="color: #f7768e;">NETWORK ACTIVITY</h3>
+    <td align="center" style="background: #1a1b26; border-radius: 20px; padding: 25px; border: 2px solid #30363d;">
+      <h3 style="color: #ffd700;">SYSTEM METRICS</h3>
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=veera-crt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="48%" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera-crt&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="45%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=veera-crt&show_icons=true&theme=tokyonight&bg_color=1a1b26&title_color=ffd700&text_color=ffffff&icon_color=ffd700&border_color=ffd700&hide_border=true" width="48%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera-crt&layout=compact&theme=tokyonight&bg_color=1a1b26&title_color=ffd700&text_color=ffffff&icon_color=ffd700&border_color=ffd700&hide_border=true" width="45%" />
       <br/><br/>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=veera-crt&theme=react-dark&bg_color=1a1b26&color=7aa2f7&hide_border=true" width="95%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=veera-crt&theme=tokyonight&background=1a1b26&ring=ffd700&fire=ffd700&currStreakLabel=ffd700&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border=ffd700&hide_border=true" width="95%" />
     </td>
   </tr>
 </table>
