@@ -12,9 +12,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=veera-crt&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
 </div>
 
----
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZzJreG9qZzJreG9qZzJreG9qZzJreG9qZzJreG9qZzJmJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L05HoXqCixKjXwEqTz/giphy.gif" width="100%" alt="Cyberpunk Code Rain" />
+</div>
 
 ### 🚀 About Me
+
+<div align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZzJreG9qZzJreG9qZzJreG9qZzJreG9qZzJreG9qZzJmJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" align="right" />
+</div>
 
 I am a **B.Tech Computer Science student** specializing in **Cybersecurity** at **SRM University**. I'm passionate about building secure, scalable applications and integrating AI to solve real-world problems. Whether it's crafting interactive portfolios or developing encrypted password managers, I thrive on the intersection of security and creativity.
 
@@ -120,6 +126,11 @@ I am a **B.Tech Computer Science student** specializing in **Cybersecurity** at 
   <a href="mailto:veeraatcyber@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veera-crt&theme=tokyonight&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <div align="center">
