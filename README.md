@@ -1,149 +1,38 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=9146FF&height=300&section=header&text=VEERAPANDI%20G&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
-</div>
+  
+  <!-- Header Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:00ccff&height=200&section=header&text=Veera&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Creative%20Developer%20&descAlignY=51&descAlign=62" width="100%"/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=9146FF&center=true&vCenter=true&width=800&lines=CYBERSECURITY+SPECIALIST+🛡️;FULL+STACK+DEVELOPER+💻;AI+INNOVATION+ENTHUSIAST+🤖;CONTINUOUS+LEARNER+🚀" alt="Typing SVG" />
-</div>
+  <!-- Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Coding+the+Future;Building+Modern+Experiences;Tech+Enthusiast" alt="Typing SVG" />
+  </a>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
-</p>
+  <br/><br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="100%" />
+  <!-- Tech Stack Badges with Neon/Glow Style -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  
+  <br/><br/>
 
-### 🛠️ LIVE SYSTEM STATUS
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=%5B%3E%5D+Initializing+Secure+Connection...;%5B%3E%5D+Accessing+Mainframe...;%5B%3E%5D+Neural+Network+Online;%5B%3E%5D+Firewall+Bypassed+Successfully;%5B%3E%5D+STATUS%3A+ACTIVE" alt="Status" />
-</div>
+  <!-- Stats Cards with Cyberpunk/Lighting Theme -->
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=veera-crt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=00FF99&title_color=00FF99&text_color=FFFFFF" height="180" alt="Veera's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera-crt&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=FFFFFF" height="180" alt="Top Languages" />
+  </div>
 
-
-### 🚀 About Me
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera-crt&layout=compact&theme=tokyonight&hide=html,css" align="right" />
-</div>
-
-I am a **B.Tech Computer Science student** specializing in **Cybersecurity** at **SRM University**. I'm passionate about building secure, scalable applications and integrating AI to solve real-world problems. Whether it's crafting interactive portfolios or developing encrypted password managers, I thrive on the intersection of security and creativity.
-
-- 🛡️ Specializing in **Cybersecurity & Ethical Hacking**.
-- 💻 Full Stack Development with a focus on modern UI/UX.
-- 🤖 Integrating AI/ML into web applications.
-- ✍️ Active content creator on YouTube and my personal blog.
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="100%" />
-
-### 🛡️ TECH ARSENAL
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,linux,docker,aws,figma&theme=dark" alt="Tech Stack" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera-crt&layout=compact&theme=tokyonight&hide=html,css" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=veera-crt&show_icons=true&theme=tokyonight&count_private=true" width="45%" />
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="100%" />
-
-
-### 📊 GitHub Stats & Progress
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=veera-crt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera-crt&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veera-crt&theme=tokyonight&area=true&highlight_color=9146FF" width="100%" alt="Activity Graph" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veera-crt&theme=tokyonight&fire=9146FF" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veera-crt&theme=tokyonight" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/veera-crt/veera-crt/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/veera-crt/veera-crt/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/veera-crt/veera-crt/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="100%" />
-
----
-
-### 📜 Certifications & Achievements
-
-- 🥇 **Certified Ethical Hacker (CEH)** - *[Provider]* (In Progress)
-- 🥈 **Full Stack Web Development Bundle** - *[Provider]*
-- 🥉 **Problem Solving (Gold Badge)** - *HackerRank*
-
----
-
-### 🌟 Featured Projects
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/veera-crt/VEERAPANDI_PORTFOLIO">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=veera-crt&repo=VEERAPANDI_PORTFOLIO&theme=tokyonight&show_owner=true" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/veera-crt/Password-Secure-Manager">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=veera-crt&repo=Password-Secure-Manager&theme=tokyonight&show_owner=true" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9146FF&center=true&vCenter=true&width=700&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.;First%2C+solve+the+problem.+Then%2C+write+the+code.;Simplicity+is+the+soul+of+efficiency.;Experience+is+the+name+everyone+gives+to+their+mistakes." alt="Tech Quote" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9146FF&center=true&vCenter=true&width=400&lines=Let's+Connect!+🤝" alt="Connect Title" />
-</div>
-
-<p align="center">
-  <a href="https://veeraatechy.online" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/veerapandi-g-50bb06297/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://youtube.com/@cybvars" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="mailto:veeraatcyber@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<div align="center">
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veera-crt&theme=tokyonight&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veera-crt&theme=radical&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" alt="Streak Stats" />
+
+  <br/><br/>
+
+  <!-- Footer Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ccff,100:00ff99&height=100&section=footer" width="100%"/>
+
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=veera-crt&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=30" width="100%" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=veera-crt&color=blueviolet&style=flat-square" alt="Profile Views" />
-</div>
-
-<br>
-
-> "Cybersecurity is not just a profession, it's a mindset." – Unknown
