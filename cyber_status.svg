@@ -1,0 +1,7 @@
+<svg width="250" height="50" viewBox="0 0 250 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="250" height="50" rx="25" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+  <circle cx="30" cy="25" r="8" fill="#238636">
+    <animate attributeName="opacity" values="1;0.4;1" dur="1.5s" repeatCount="indefinite" />
+  </circle>
+  <text x="50" y="30" fill="#C9D1D9" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 14px; font-weight: 600; letter-spacing: 0.5px;">SYSTEMS SECURED & ACTIVE</text>
+</svg>
