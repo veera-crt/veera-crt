@@ -1,43 +1,143 @@
-# Hi 👋, I'm Veerapandi G
+<div align="center">
 
-### A passionate cybersecurity
+<!-- DYNAMIC HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1a1b26,7aa2f7,bb9af7&height=220&section=header&text=VEERAPANDI&fontSize=80&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Engineering%20Safety%20in%20a%20Digital%20World&descAlignY=65&descAlign=50" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=veera-crt&label=Profile views&color=0e75b6&style=flat" alt="veera-crt" /> </p>
+<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veera-crt" alt="veera-crt" /></a> </p>
+### 🛡️ Cybersecurity Engineer | DevSecOps | Digital Architect
 
-- 🔭 I'm currently working on **a Cybersecurity for all the peoples**
+<br/>
 
-- 🌱 I'm currently learning **Vulnerability assessment & Pentesting**
+[![Portfolio](https://img.shields.io/badge/PERSONAL-PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://veerapandig.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/veera-crt)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veera@example.com)
 
-- 👯 I'm looking to collaborate on **open source cybersecurity project**
+<br/>
 
-- 🤝 I'm looking for help with **Cybersecurity**
+<!-- MISSION SECTION -->
+<table width="100%">
+  <tr>
+    <td align="center" style="background: linear-gradient(135deg, #1a1b26 0%, #16161e 100%); border-radius: 20px; padding: 30px; border: 1px solid #333;">
+      <h3 style="color: #7aa2f7; letter-spacing: 2px;">THE OPERATION</h3>
+      <p style="color: #a9b1d6; font-size: 1.1em; line-height: 1.6;">
+        "I transform complex real-time systems into remote, digital, and safe security products. <br/> 
+        Engineering trust at the intersection of <b style="color: #0093fcff;">Cybersecurity</b> and <b style="color: #7dcfff;">DevSecOps</b>."
+      </p>
+    </td>
+  </tr>
+</table>
 
-- 💬 Ask me about **Cybersecurity, Encryption, Access Control , GRC , Vulnerability Assessment**
+<br/>
 
-- 📫 How to reach me **veeranpandian62@gmail.com**
+<!-- ROADMAP SECTION (Native Mermaid) -->
+<table width="100%">
+  <tr>
+    <td align="center" style="background: #1a1b26; border-radius: 20px; padding: 25px; border: 1px solid #30363d;">
+      <h3 style="color: #bb9af7;">CYBER DEFENSE ROADMAP</h3>
+      <br/>
 
-- ⚡ Fun fact **I think I funny**
+```mermaid
+graph LR
+    A[Hardware] --> B[Network]
+    B --> C[OS / Linux]
+    C --> D[Net Security]
+    D --> E[GRC / Audit]
+    E --> F[Vulnerability]
+    F --> G[Offensive]
+    G --> H[Defensive]
+    H --> I[Ethical Hacker]
 
-- 👨‍💻 All of my projects are available at **[https://veerapandig.vercel.app](https://veerapandig.vercel.app)**
+    classDef done fill:#2e7d32,stroke:#fff,stroke-width:2px,color:#fff
+    classDef current fill:#1a1b26,stroke:#7aa2f7,stroke-width:1px,color:#7aa2f7
+    
+    class A,B,C,D,E done
+    class F,G,H,I current
+```
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1G52j-NLSW49_n1puTFYKyMQVA9SBoJjJ/view](https://drive.google.com/file/d/1G52j-NLSW49_n1puTFYKyMQVA9SBoJjJ/view)**
+   </td>
+  </tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/veera-crt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="veera-crt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/veerapandi-g-342388292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veerapandi-g-342388292" height="30" width="40" /></a>
-<a href="https://youtube.com/UCPUS-XlXHCF4PntvyV-WVKg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCPUS-XlXHCF4PntvyV-WVKg" height="30" width="40" /></a>
-<a href="https://hackerrank.com/vg2632" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vg2632" height="30" width="40" /></a>
+<br/>
+
+<!-- MIDDLE GRID -->
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" style="background: #1a1b26; border-radius: 20px; padding: 20px; border: 1px solid #30363d;">
+      <h3 align="center" style="color: #7dcfff;">⚡ TECH STACK</h3>
+      <hr style="border: 0.5px solid #30363d;"/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        <br/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+      </p>
+      <br/>
+      <h3 align="center" style="color: #7dcfff;">📜 CERTIFICATIONS</h3>
+      <hr style="border: 0.5px solid #30363d;"/>
+      <p style="color: #a9b1d6;"><b>ACTIVE:</b> (ISC)² CC <img src="https://img.shields.io/badge/IN--PROGRESS-238636?style=flat" /></p>
+      <p style="color: #a9b1d6;"><b>NPTEL:</b> System Security | Ethical Hacker | Java</p>
+      <p style="color: #a9b1d6;"><b>UPCOMING:</b> CEH, ISO 27001, ITIL</p>
+    </td>
+    <td width="50%" valign="top" style="background: #1a1b26; border-radius: 20px; padding: 20px; border: 1px solid #30363d;">
+      <h3 align="center" style="color: #9ece6a;">🎓 ACADEMICS</h3>
+      <hr style="border: 0.5px solid #30363d;"/>
+      <div align="left" style="color: #a9b1d6;">
+        <p><b>Sem 1:</b> 7.82 <img src="https://img.shields.io/badge/SGPA-7.82-7aa2f7?style=flat" /></p>
+        <p><b>Sem 2:</b> 8.48 <img src="https://img.shields.io/badge/SGPA-8.48-7aa2f7?style=flat" /></p>
+        <p><b>Sem 3:</b> 8.96 <img src="https://img.shields.io/badge/SGPA-8.96-7aa2f7?style=flat" /></p>
+        <p><b>Sem 4:</b> 9.35 <img src="https://img.shields.io/badge/SGPA-9.35-7aa2f7?style=flat" /></p>
+        <p><b>Sem 5:</b> Loading... <img src="https://raw.githubusercontent.com/n-m-t/n-m-t/master/loading.gif" width="16" /></p>
+        <p align="center"><b>Total CGPA: 8.64 / 10</b></p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- EXPERIENCE SECTION -->
+<table width="100%">
+  <tr>
+    <td style="background: #1a1b26; border-radius: 20px; padding: 25px; border: 1px solid #30363d;">
+      <h3 align="center" style="color: #e0af68;">🚀 PROFESSIONAL FOOTPRINT</h3>
+      <hr style="border: 0.5px solid #30363d;"/>
+      <div align="left" style="color: #a9b1d6;">
+        <p>🔘 <b>Media Team Lead</b> @ IEI Club <small>(Sep 2025 - Present)</small></p>
+        <p>🔘 <b>Palo Alto Internship</b> @ Edukills <small>(2025 - 2026)</small></p>
+        <p>🔘 <b>TATA Internship</b> @ Forage <small>(2025 - 2026)</small></p>
+        <p>🔘 <b>Technical Team Member</b> @ NWC Association <small>(Jan 2025 - Dec 2025)</small></p>
+        <p>🔘 <b>Content Creator</b> @ [The Joy Of Cyber](https://youtube.com) <small>(Dec 2024 - Present)</small></p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ANALYTICS SECTION -->
+<table width="100%">
+  <tr>
+    <td align="center" style="background: #1a1b26; border-radius: 20px; padding: 25px; border: 1px solid #30363d;">
+      <h3 style="color: #f7768e;">NETWORK ACTIVITY</h3>
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=veera-crt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="48%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera-crt&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="45%" />
+      <br/><br/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=veera-crt&theme=react-dark&bg_color=1a1b26&color=7aa2f7&hide_border=true" width="95%" />
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=100&section=footer" width="100%"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/framer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=veera-crt&show_icons=true&locale=en&layout=compact" alt="veera-crt" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=veera-crt&show_icons=true&locale=en" alt="veera-crt" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veera-crt&" alt="veera-crt" /></p>
-
+</div>
