@@ -129,6 +129,8 @@ graph LR
       <img src="https://github-readme-stats.vercel.app/api?username=veera-crt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="48%" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera-crt&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="45%" />
       <br/><br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=veera-crt&theme=tokyonight&hide_border=true&background=1a1b26" width="95%" />
+      <br/><br/>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=veera-crt&theme=react-dark&bg_color=1a1b26&color=7aa2f7&hide_border=true" width="95%" />
     </td>
   </tr>
