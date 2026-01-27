@@ -296,24 +296,125 @@ graph LR
 
 ## 📊 GitHub Analytics
 
+### 📈 **Overview Statistics**
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=veera-crt&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=veera-crt&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" width="49%"/>
 </p>
 
+### 💻 **Language Statistics**
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera-crt&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=veera-crt&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera-crt&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=10" alt="Top Languages - Compact" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera-crt&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages - Donut" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veera-crt&theme=github-compact&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true" alt="Contribution Graph" width="98%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera-crt&layout=pie&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Language Distribution" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera-crt&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=6" alt="Language Breakdown" width="49%"/>
 </p>
 
-<!-- TROPHIES -->
+### 📊 **Profile Summary Cards**
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=veera-crt&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" width="98%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veera-crt&theme=github_dark" alt="Profile Details" width="98%"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=veera-crt&theme=github_dark" alt="Repos Per Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=veera-crt&theme=github_dark" alt="Most Commit Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=veera-crt&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="32%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=veera-crt&theme=github_dark" alt="Stats" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits?username=veera-crt&theme=github_dark" alt="Commits" width="49%"/>
+</p>
+
+### 🔥 **Contribution Activity**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veera-crt&theme=github-compact&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&height=350" alt="Contribution Graph" width="98%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veera-crt&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&custom_title=Activity%20Graph%20-%20Alternative%20View" alt="Activity Graph 2" width="98%"/>
+</p>
+
+### 🏆 **Achievement Trophies**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=veera-crt&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" width="98%"/>
+</p>
+
+### 📉 **Detailed Metrics**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=veera-crt&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&layout=compact" alt="WakaTime Stats" width="49%"/>
+  <img src="https://metrics.lecoq.io/veera-crt?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&config.timezone=Asia%2FKolkata" alt="Detailed Metrics" width="49%"/>
+</p>
+
+### 🎯 **Contribution Stats**
+
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-contributor-stats.vercel.app/api?username=veera-crt&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" alt="Contributor Stats" width="95%"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=veera-crt&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true&hide=issues&show=prs_merged,prs_merged_percentage" alt="PR Stats" width="95%"/>
+    </td>
+  </tr>
+</table>
+
+### 📅 **Commit Calendar Heatmap**
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00d9ff/veera-crt" alt="GitHub Chart" width="98%"/>
+</p>
+
+### ⚡ **Recent Activity & Metrics**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/gist?id=YOUR_GIST_ID&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" alt="Gist Stats" width="49%" style="display: none;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veera-crt&theme=monokai" alt="Alternative Theme Stats" width="49%" style="display: none;"/>
+</p>
+
+### 🌟 **Star History**
+
+<p align="center">
+  <img src="https://api.star-history.com/svg?repos=veera-crt/veera-crt&type=Date&theme=dark" alt="Star History" width="98%"/>
+</p>
+
+### 📊 **Contribution Heatmap**
+
+<p align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/veera-crt?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=40&theme=purple" alt="3D Contribution Bar Chart" width="98%"/>
+</p>
+
+### 🎨 **Additional Visualizations**
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=veera-crt&theme=dark&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=c9d1d9" alt="Alternative Streak Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=veera-crt&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Alternative Stats View" width="49%"/>
+</p>
+
+### 📈 **Growth Metrics**
+
+<table width="100%" align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/github/followers/veera-crt?label=Followers&style=for-the-badge&color=00d9ff&labelColor=0d1117" alt="Followers"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/veera-crt?label=Total%20Stars&style=for-the-badge&color=ffd700&labelColor=0d1117" alt="Stars"/>
+    </td>
+    <td align="center">
+      <img src="https://komarev.com/ghpvc/?username=veera-crt&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
