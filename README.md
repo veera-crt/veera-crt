@@ -1,399 +1,105 @@
-<div align="center">
-
-<!-- PROFESSIONAL HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:2d4356,100:1a1b26&height=200&section=header&text=VEERAPANDI%20G&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Cybersecurity%20Engineer%20|%20DevSecOps%20Specialist&descSize=16&descAlignY=60" width="100%"/>
-
-<br/>
-
-<!-- PROFESSIONAL TAGLINE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=Securing+Digital+Infrastructure;Offensive+%26+Defensive+Security;DevSecOps+Engineer+%7C+Security+Researcher" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0B3C5D,50:1D6FA3,100:2E8BC0&text=Veerapandi%20G&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=36" alt="banner" />
 </p>
 
-<!-- SOCIAL BADGES -->
-<p align="center">
-  <a href="https://veerapandig.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/veera-crt" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://youtube.com" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="mailto:veera@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/veera-crt" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<!-- PROFILE VIEWS COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=veera-crt&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/veera-crt?label=Followers&style=flat-square&color=0e75b6" alt="Followers"/>
-</p>
-
-<br/>
-
-<!-- ABOUT ME SECTION -->
-## 🎯 About Me
-
-```yaml
-name: Veerapandi G
-role: Cybersecurity Engineer & DevSecOps Specialist
-location: Tamil Nadu, India
-education: B.Tech in Computer Science (Cybersecurity)
-current_focus: 
-  - Offensive Security & Penetration Testing
-  - Cloud Security Architecture
-  - Security Automation & DevSecOps
-  - Threat Intelligence & Incident Response
-
-philosophy: |
-  "Security is not a product, but a process of continuous improvement.
-   I engineer trust by building systems that are secure by design,
-   not as an afterthought."
-
-currently_learning:
-  - Advanced Exploitation Techniques
-  - Cloud Native Security (K8s, Docker)
-  - Threat Hunting & SIEM Analytics
-  - Security Research & Vulnerability Analysis
-```
-
-<br/>
-
----
-
-## 🛠️ Technology Arsenal
-
-### **Languages & Scripting**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-</p>
-
-### **Security Tools & Frameworks**
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
-</p>
-
-### **DevOps & Cloud**
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
-
-### **Web Technologies**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-</p>
-
-<br/>
-
----
-
-## 🗺️ Cybersecurity Journey
+<h3 align="center">Cybersecurity Aspirant | B.Tech CSE (Cyber Security) @ SRMIST</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veera-crt&custom_title=Cybersecurity%20Learning%20Path&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Learning Path" width="95%"/>
-</p>
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#00d9ff','primaryTextColor':'#fff','primaryBorderColor':'#00d9ff','lineColor':'#00d9ff','secondaryColor':'#1a1e22','tertiaryColor':'#0d1117'}}}%%
-graph LR
-    A[🖥️ Hardware<br/>Fundamentals] --> B[🌐 Networking<br/>TCP/IP]
-    B --> C[🐧 Linux<br/>System Admin]
-    C --> D[🔒 Network<br/>Security]
-    D --> E[📋 GRC &<br/>Compliance]
-    E --> F[🔍 Vulnerability<br/>Assessment]
-    F --> G[⚔️ Offensive<br/>Security]
-    G --> H[🛡️ Defensive<br/>Security]
-    H --> I[👨‍💻 Ethical<br/>Hacker]
-    
-    style A fill:#2e7d32,stroke:#4caf50,stroke-width:3px,color:#fff
-    style B fill:#2e7d32,stroke:#4caf50,stroke-width:3px,color:#fff
-    style C fill:#2e7d32,stroke:#4caf50,stroke-width:3px,color:#fff
-    style D fill:#2e7d32,stroke:#4caf50,stroke-width:3px,color:#fff
-    style E fill:#2e7d32,stroke:#4caf50,stroke-width:3px,color:#fff
-    style F fill:#1565c0,stroke:#00d9ff,stroke-width:3px,color:#fff
-    style G fill:#1565c0,stroke:#00d9ff,stroke-width:3px,color:#fff
-    style H fill:#1565c0,stroke:#00d9ff,stroke-width:3px,color:#fff
-    style I fill:#1565c0,stroke:#00d9ff,stroke-width:3px,color:#fff
-```
-
-<br/>
-
----
-
-## 🏆 Certifications & Achievements
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      
-### 🎓 **Active Certifications**
-      
-- 🔹 **(ISC)² Certified in Cybersecurity (CC)** 
-  ![In Progress](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square)
-  
-- 🔹 **NPTEL - System Security** 
-  ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-  
-- 🔹 **NPTEL - Ethical Hacking** 
-  ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-  
-- 🔹 **NPTEL - Java Programming** 
-  ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-
-    </td>
-    <td width="50%" valign="top">
-      
-### 🎯 **Target Certifications**
-      
-- 🔸 **CEH (Certified Ethical Hacker)** - Q2 2026
-- 🔸 **ISO 27001 Lead Implementer** - Q3 2026
-- 🔸 **ITIL Foundation** - Q3 2026
-- 🔸 **OSCP (Offensive Security)** - Q4 2026
-- 🔸 **AWS Security Specialty** - 2027
-
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-## 💼 Professional Experience
-
-<table width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <h3>📱</h3>
-      <h4>Media Team Lead</h4>
-      <p><b>IEI Club</b></p>
-      <p><i>Sep 2025 - Present</i></p>
-      <p>Leading digital content strategy and technical documentation</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>🔒</h3>
-      <h4>Security Intern</h4>
-      <p><b>Palo Alto Networks</b></p>
-      <p><i>2025 - 2026</i></p>
-      <p>Network security & threat prevention research</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>💻</h3>
-      <h4>Security Analyst Intern</h4>
-      <p><b>Tata Group (Forage)</b></p>
-      <p><i>2025 - 2026</i></p>
-      <p>Cybersecurity operations & incident response</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🌐</h3>
-      <h4>Technical Team Member</h4>
-      <p><b>NWC Association</b></p>
-      <p><i>Jan 2025 - Dec 2025</i></p>
-      <p>Technical implementation & security auditing</p>
-    </td>
-    <td width="50%" align="center">
-      <h3>🎥</h3>
-      <h4>Content Creator</h4>
-      <p><b>The Joy Of Cyber</b></p>
-      <p><i>Dec 2024 - Present</i></p>
-      <p>Cybersecurity education & awareness content</p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-## 📚 Academic Excellence
-
-<table width="100%">
-  <tr>
-    <td width="70%" align="center">
-      <h3>📊 Semester-wise Performance</h3>
-      <table width="100%">
-        <tr>
-          <th>Semester</th>
-          <th>SGPA</th>
-          <th>Performance</th>
-        </tr>
-        <tr>
-          <td align="center">Semester 1</td>
-          <td align="center"><b>7.82</b></td>
-          <td align="center">
-            <img src="https://progress-bar.dev/78?title=Progress&width=120&color=00d9ff" alt="78%"/>
-          </td>
-        </tr>
-        <tr>
-          <td align="center">Semester 2</td>
-          <td align="center"><b>8.48</b></td>
-          <td align="center">
-            <img src="https://progress-bar.dev/85?title=Progress&width=120&color=00d9ff" alt="85%"/>
-          </td>
-        </tr>
-        <tr>
-          <td align="center">Semester 3</td>
-          <td align="center"><b>8.96</b></td>
-          <td align="center">
-            <img src="https://progress-bar.dev/90?title=Progress&width=120&color=4caf50" alt="90%"/>
-          </td>
-        </tr>
-        <tr>
-          <td align="center">Semester 4</td>
-          <td align="center"><b>9.35</b></td>
-          <td align="center">
-            <img src="https://progress-bar.dev/94?title=Progress&width=120&color=4caf50" alt="94%"/>
-          </td>
-        </tr>
-        <tr>
-          <td align="center">Semester 5</td>
-          <td align="center"><b>🌟 9.57 🌟</b></td>
-          <td align="center">
-            <img src="https://progress-bar.dev/96?title=Progress&width=120&color=ffd700" alt="96%"/>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td width="30%" align="center">
-      <h3>🎯 Overall CGPA</h3>
-      <br/>
-      <img src="https://img.shields.io/badge/CGPA-8.80/10-success?style=for-the-badge&logo=google-scholar&logoColor=white" alt="CGPA" width="200"/>
-      <br/><br/>
-      <p><i>Consistent academic excellence with strong focus on cybersecurity applications</i></p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veera-crt&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49.5%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veera-crt&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" width="49.5%"/>
+  <img src="https://img.shields.io/badge/Goal-Network%20Security-0B3C5D?style=for-the-badge" alt="goal" />
+  <img src="https://img.shields.io/badge/CGPA-8.82-1D6FA3?style=for-the-badge" alt="cgpa" />
+  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Security%20Projects-2E8BC0?style=for-the-badge" alt="open-to-work" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=veera-crt&theme=github_dark" alt="Contribution Graph" width="99%"/>
+  <img src="https://komarev.com/ghpvc/?username=gveerapandi&label=Profile%20Views&color=1D6FA3&style=for-the-badge" alt="profile views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera-crt&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="49.5%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=veera-crt&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="49.5%"/>
+  <a href="https://veera-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-Visit-0B3C5D?style=flat-square&logo=googlechrome&logoColor=white" alt="portfolio" /></a>
+  <a href="https://www.linkedin.com/in/veerapandig/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://github.com/gveerapandi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="github" /></a>
+  <a href="https://www.youtube.com/channel/UCPUS-XlXHCF4PntvyV-WVKg" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="youtube" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=veera-crt&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Achievements" width="99%"/>
+## Professional Summary
+
+Cybersecurity-focused engineering student with practical exposure to vulnerability assessment, network security, forensics, cloud security concepts, and secure software development.  
+Career objective: build deep expertise as a **Network Security Engineer**.
+
+## Education
+
+| Program | Institution | Status |
+|---|---|---|
+| B.Tech, Computer Science and Engineering (Cyber Security) | SRM Institute of Science and Technology (SRMIST) | Class of 2027 |
+| Academic Performance | Current CGPA | **8.82** |
+
+## Security & Technical Focus
+
+<p>
+  <img src="https://img.shields.io/badge/Network%20Security-0B3C5D?style=flat-square" alt="network security" />
+  <img src="https://img.shields.io/badge/Computer%20Networks-155E75?style=flat-square" alt="computer networks" />
+  <img src="https://img.shields.io/badge/VAPT-1D6FA3?style=flat-square" alt="vapt" />
+  <img src="https://img.shields.io/badge/GRC-3C9DD0?style=flat-square" alt="grc" />
+  <img src="https://img.shields.io/badge/Nessus-2563EB?style=flat-square" alt="nessus" />
+  <img src="https://img.shields.io/badge/Metasploit-0F172A?style=flat-square" alt="metasploit" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-1F2937?style=flat-square" alt="full stack" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="canva" />
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" alt="powerpoint" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="excel" />
 </p>
 
-<br/>
+## Featured Projects
 
----
+| Project | Description | Link |
+|---|---|---|
+| SecureVote | Election management platform built with Python, Flask, and AES-256 encryption for integrity and secure vote handling | <a href="https://secure-vote-nine.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a> |
+| CipherKeep | Security-focused asset management platform | <a href="https://chipherkeep.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a> |
+| Crop & Carry | Agri-tech full-stack marketplace platform | <a href="https://cropandcarry.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a> |
 
-## 🚀 Featured Projects
+## Experience
 
-<p align="center">
-  <i>🔒 Building secure solutions • Contributing to open-source security tools • Always learning</i>
+| Period | Role | Organization | Proof |
+|---|---|---|---|
+| Jan 2020 - Present | Content Creator (Part-time) | YouTube Channel | <a href="https://www.youtube.com/channel/UCPUS-XlXHCF4PntvyV-WVKg" target="_blank" rel="noopener noreferrer">Channel</a> |
+| Nov 2024 - Present | Member | IE(I) NWC Student Chapter, SRM University (Hybrid) | <a href="https://drive.google.com/file/d/1EukatIlGHfP8cx4Xh7lKks8fKbaEIQ0d/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Certificate</a> |
+| Jan 2025 - Dec 2025 | Technical Team Member (Part-time) | NWC Association SRMIST KTR | <a href="https://drive.google.com/file/d/1HNeMvSXkIFLnA13c5PHFPJSZxcB3uQLp/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Certificate</a> |
+| Apr 2025 - Jun 2025 | Cyber Security Analyst (Internship) | Palo Alto Networks Cybersecurity Academy | <a href="https://drive.google.com/file/d/19lF-U4AgJ6CrKS8vdRRSNYP977wbkjj6/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Certificate</a> |
+| Jun 2025 - Jul 2025 | Email Forensic Research Cybersecurity Internship | SRM Institute of Science and Technology (Hybrid) | <a href="https://drive.google.com/file/d/1Tax_FyHSg0TxQ-kfs6mzhbPaENH7FeSw/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Certificate</a> |
+| Nov 2025 - Present | Media Lead (Part-time) | IE(I) NWC Student Chapter, SRM University | - |
+| Jan 2026 - Mar 2026 | Ethical Hacking (Internship) | EduSkills Academy | <a href="https://drive.google.com/file/d/11KqkF070UOX3Az0FQy-YIA7R_yms8Nbk/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Certificate</a> |
+
+## Certifications
+
+| Certification | Credential |
+|---|---|
+| H7Tex International CTF | <a href="https://drive.google.com/file/d/1fQRm1Hl9ZLeHQXGOM21GUnNTq2qUFt8y/view?usp=drive_link" target="_blank" rel="noopener noreferrer">View</a> |
+| SRM Valliammai - Cybersecurity Department CTF | <a href="https://drive.google.com/file/d/163EOwb6YobYzGwTH-AAnGZ2GZn6PMnzC/view?usp=drive_link" target="_blank" rel="noopener noreferrer">View</a> |
+| Fortinet Certified Associate in Cybersecurity | <a href="https://drive.google.com/file/d/1AP8GXzMY7okdEk7MmpACAOLz_XWJM04P/view?usp=drive_link" target="_blank" rel="noopener noreferrer">View</a> |
+| Fortinet Certified Fundamentals in Cybersecurity | <a href="https://drive.google.com/file/d/1CUQBYLABttXXQRNAi7eJ3p58gIsTSM9j/view?usp=drive_link" target="_blank" rel="noopener noreferrer">View</a> |
+| Hack2Skill Certificate | <a href="https://drive.google.com/file/d/1SkrYAED8Zu2zgOd4o5edFHl7wwtqYkf9/view?usp=drive_link" target="_blank" rel="noopener noreferrer">View</a> |
+| #1 Engineering Design Prize - SRMIST National Design Convention (April 2024) | <a href="https://drive.google.com/file/d/1_z0VzTxlZeJNDx9l5mWCyzsXLTPgJcQp/view?usp=drive_link" target="_blank" rel="noopener noreferrer">View</a> |
+| Ultron Certificate (Veerapandi Gnanasekaran) | <a href="https://drive.google.com/file/d/1sAxmscWRx0wFpJ_9qTKGE1_bArJL6-XS/view?usp=drive_link" target="_blank" rel="noopener noreferrer">View</a> |
+| Cyber Workshop Certificate | <a href="https://drive.google.com/file/d/1gKyngYjHATjIyzIsV6xpnUW4mOvOKkxC/view?usp=drive_link" target="_blank" rel="noopener noreferrer">View</a> |
+
+## Professional Highlights
+
+- #1 Engineering Design Prize - SRMIST National Design Convention (April 2024), <a href="https://drive.google.com/file/d/1_z0VzTxlZeJNDx9l5mWCyzsXLTPgJcQp/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Proof</a>
+- Mentored 100+ learners through technical content initiatives
+- Strong academic progression with focused cybersecurity specialization
+
+## GitHub Analytics
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=gveerapandi&show_icons=true&hide_border=true&title_color=0B3C5D&icon_color=1D6FA3&text_color=334155&bg_color=ffffff" alt="github stats" />
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=gveerapandi&hide_border=true&ring=0B3C5D&fire=1D6FA3&currStreakLabel=0B3C5D" alt="streak stats" />
 </p>
 
-<br/>
+## Contact
 
----
 
-## 🎯 Current Focus Areas
-
-<table width="100%">
-  <tr>
-    <td width="25%" align="center">
-      <h2>🔐</h2>
-      <h4>Offensive Security</h4>
-      <p>Penetration Testing & Exploit Development</p>
-    </td>
-    <td width="25%" align="center">
-      <h2>☁️</h2>
-      <h4>Cloud Security</h4>
-      <p>AWS, Azure & Container Security</p>
-    </td>
-    <td width="25%" align="center">
-      <h2>⚙️</h2>
-      <h4>DevSecOps</h4>
-      <p>CI/CD Security & Automation</p>
-    </td>
-    <td width="25%" align="center">
-      <h2>🛡️</h2>
-      <h4>Threat Intelligence</h4>
-      <p>SIEM, SOC & Incident Response</p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-## 📬 Let's Connect & Collaborate
-
-<p align="center">
-  <b>Open to collaborations in Cybersecurity Research, Bug Bounty Programs, and Open Source Security Projects</b>
-</p>
-
-<p align="center">
-  <a href="https://veerapandig.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00d9ff?style=for-the-badge&labelColor=000000" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/veera-crt">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:veera@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>"The best way to predict the future is to secure it."</i>
-</p>
-
-<br/>
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%"/>
-
-</div>
-
----
-
-<p align="center">
-  <b>⭐ From <a href="https://github.com/veera-crt">veera-crt</a> with 🔒 and ☕</b>
-</p>
-
-<p align="center">
-  <i>Last Updated: January 2026</i>
-</p>
+- LinkedIn: <a href="https://www.linkedin.com/in/veerapandig/" target="_blank" rel="noopener noreferrer">linkedin.com/in/veerapandig</a>
+- Portfolio: <a href="https://veera-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">veera-portfolio.vercel.app</a>
+# gveerapandi
