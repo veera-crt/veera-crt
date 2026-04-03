@@ -51,7 +51,7 @@
 ## 📊 [ REALTIME_SCANNING: veera-crt ]
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veera-crt&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FF00FF&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=veera-crt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com?user=veera-crt&theme=tokyonight&hide_border=true&stroke=00D4FF&ring=FF00FF&fire=FF5F1F&online=00FF41" alt="Streak Stats" width="48%" />
 </p>
 
@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera-crt&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=FF00FF&icon_color=00D4FF&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera-crt&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
