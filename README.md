@@ -1,105 +1,111 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0B3C5D,50:1D6FA3,100:2E8BC0&text=Veerapandi%20G&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=36" alt="banner" />
-</p>
-
-<h3 align="center">Cybersecurity Aspirant | B.Tech CSE (Cyber Security) @ SRMIST</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Goal-Network%20Security-0B3C5D?style=for-the-badge" alt="goal" />
-  <img src="https://img.shields.io/badge/CGPA-8.82-1D6FA3?style=for-the-badge" alt="cgpa" />
-  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Security%20Projects-2E8BC0?style=for-the-badge" alt="open-to-work" />
+  <img src="https://capsule-render.vercel.app/api?type=terminal&height=200&color=0D1117&text=ROOT_INIT:_veera-crt&fontColor=00FF41&fontSize=45&animation=fadeIn&fontAlignY=38" alt="Cybersecurity Banner" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gveerapandi&label=Profile%20Views&color=1D6FA3&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/badge/System_Status-SECURE-00FF41?style=for-the-badge&logo=statuspage&logoColor=black" alt="Status" />
+  <img src="https://img.shields.io/badge/Security_Level-CLASSIFIED-red?style=for-the-badge&logo=shippable&logoColor=white" alt="Security Level" />
+  <img src="https://komarev.com/ghpvc/?username=veera-crt&label=Access_Logs&color=00FF41&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <a href="https://veera-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-Visit-0B3C5D?style=flat-square&logo=googlechrome&logoColor=white" alt="portfolio" /></a>
-  <a href="https://www.linkedin.com/in/veerapandig/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="https://github.com/gveerapandi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="github" /></a>
-  <a href="https://www.youtube.com/channel/UCPUS-XlXHCF4PntvyV-WVKg" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="youtube" /></a>
+  <a href="https://veera-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Access_Portfolio-00FF41?style=flat-square&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/veerapandig/" target="_blank"><img src="https://img.shields.io/badge/Linked_Nodes-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/veera-crt" target="_blank"><img src="https://img.shields.io/badge/Source_Control-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.youtube.com/channel/UCPUS-XlXHCF4PntvyV-WVKg" target="_blank"><img src="https://img.shields.io/badge/Operation_Manuals-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
-## Professional Summary
+---
 
-Cybersecurity-focused engineering student with practical exposure to vulnerability assessment, network security, forensics, cloud security concepts, and secure software development.  
-Career objective: build deep expertise as a **Network Security Engineer**.
+## 📂 [ > ] IDENTITY_MANIFESTO
+**`WHOAMI`**: **Veerapandi G**  
+**`DESIGNATION`**: Cybersecurity Aspirant | B.Tech CSE (Cyber Security) @ SRMIST  
+**`OBJECTIVE`**: Executing protocols to become a **Network Security Engineer**.  
+**`FOCUS`**: Vulnerability Assessment, Network Forensics, and Secure Architecture.
 
-## Education
+---
 
-| Program | Institution | Status |
-|---|---|---|
-| B.Tech, Computer Science and Engineering (Cyber Security) | SRM Institute of Science and Technology (SRMIST) | Class of 2027 |
-| Academic Performance | Current CGPA | **8.82** |
+## 🎓 [ > ] EDUCATION_LOGS
+| PROGRAM | INSTITUTION | STATUS |
+|:--- |:--- |:--- |
+| **B.Tech, CSE (Cyber Security)** | **SRM Institute of Science and Technology** | **Class of 2027** |
+| **ACADEMIC PERFORMANCE** | **Current CGPA** | **`8.82`** |
 
-## Security & Technical Focus
+---
 
-<p>
-  <img src="https://img.shields.io/badge/Network%20Security-0B3C5D?style=flat-square" alt="network security" />
-  <img src="https://img.shields.io/badge/Computer%20Networks-155E75?style=flat-square" alt="computer networks" />
-  <img src="https://img.shields.io/badge/VAPT-1D6FA3?style=flat-square" alt="vapt" />
-  <img src="https://img.shields.io/badge/GRC-3C9DD0?style=flat-square" alt="grc" />
-  <img src="https://img.shields.io/badge/Nessus-2563EB?style=flat-square" alt="nessus" />
-  <img src="https://img.shields.io/badge/Metasploit-0F172A?style=flat-square" alt="metasploit" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Development-1F2937?style=flat-square" alt="full stack" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="canva" />
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" alt="powerpoint" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="excel" />
+## 🛠️ [ > ] TECHNICAL_ARSENAL
+### `[ NETWORK & SECURITY ]`
+<p align="left">
+  <img src="https://img.shields.io/badge/Network_Security-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/VAPT-000000?style=for-the-badge&logo=kali-linux&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Nessus-000000?style=for-the-badge&logo=tenable&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Forensics-000000?style=for-the-badge&logo=digital-ocean&logoColor=00FF41" />
 </p>
 
-## Featured Projects
-
-| Project | Description | Link |
-|---|---|---|
-| SecureVote | Election management platform built with Python, Flask, and AES-256 encryption for integrity and secure vote handling | <a href="https://secure-vote-nine.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a> |
-| CipherKeep | Security-focused asset management platform | <a href="https://chipherkeep.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a> |
-| Crop & Carry | Agri-tech full-stack marketplace platform | <a href="https://cropandcarry.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a> |
-
-## Experience
-
-| Period | Role | Organization | Proof |
-|---|---|---|---|
-| Jan 2020 - Present | Content Creator (Part-time) | YouTube Channel | <a href="https://www.youtube.com/channel/UCPUS-XlXHCF4PntvyV-WVKg" target="_blank" rel="noopener noreferrer">Channel</a> |
-| Nov 2024 - Present | Member | IE(I) NWC Student Chapter, SRM University (Hybrid) | <a href="https://drive.google.com/file/d/1EukatIlGHfP8cx4Xh7lKks8fKbaEIQ0d/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Certificate</a> |
-| Jan 2025 - Dec 2025 | Technical Team Member (Part-time) | NWC Association SRMIST KTR | <a href="https://drive.google.com/file/d/1HNeMvSXkIFLnA13c5PHFPJSZxcB3uQLp/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Certificate</a> |
-| Apr 2025 - Jun 2025 | Cyber Security Analyst (Internship) | Palo Alto Networks Cybersecurity Academy | <a href="https://drive.google.com/file/d/19lF-U4AgJ6CrKS8vdRRSNYP977wbkjj6/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Certificate</a> |
-| Jun 2025 - Jul 2025 | Email Forensic Research Cybersecurity Internship | SRM Institute of Science and Technology (Hybrid) | <a href="https://drive.google.com/file/d/1Tax_FyHSg0TxQ-kfs6mzhbPaENH7FeSw/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Certificate</a> |
-| Nov 2025 - Present | Media Lead (Part-time) | IE(I) NWC Student Chapter, SRM University | - |
-| Jan 2026 - Mar 2026 | Ethical Hacking (Internship) | EduSkills Academy | <a href="https://drive.google.com/file/d/11KqkF070UOX3Az0FQy-YIA7R_yms8Nbk/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Certificate</a> |
-
-## Certifications
-
-| Certification | Credential |
-|---|---|
-| H7Tex International CTF | <a href="https://drive.google.com/file/d/1fQRm1Hl9ZLeHQXGOM21GUnNTq2qUFt8y/view?usp=drive_link" target="_blank" rel="noopener noreferrer">View</a> |
-| SRM Valliammai - Cybersecurity Department CTF | <a href="https://drive.google.com/file/d/163EOwb6YobYzGwTH-AAnGZ2GZn6PMnzC/view?usp=drive_link" target="_blank" rel="noopener noreferrer">View</a> |
-| Fortinet Certified Associate in Cybersecurity | <a href="https://drive.google.com/file/d/1AP8GXzMY7okdEk7MmpACAOLz_XWJM04P/view?usp=drive_link" target="_blank" rel="noopener noreferrer">View</a> |
-| Fortinet Certified Fundamentals in Cybersecurity | <a href="https://drive.google.com/file/d/1CUQBYLABttXXQRNAi7eJ3p58gIsTSM9j/view?usp=drive_link" target="_blank" rel="noopener noreferrer">View</a> |
-| Hack2Skill Certificate | <a href="https://drive.google.com/file/d/1SkrYAED8Zu2zgOd4o5edFHl7wwtqYkf9/view?usp=drive_link" target="_blank" rel="noopener noreferrer">View</a> |
-| #1 Engineering Design Prize - SRMIST National Design Convention (April 2024) | <a href="https://drive.google.com/file/d/1_z0VzTxlZeJNDx9l5mWCyzsXLTPgJcQp/view?usp=drive_link" target="_blank" rel="noopener noreferrer">View</a> |
-| Ultron Certificate (Veerapandi Gnanasekaran) | <a href="https://drive.google.com/file/d/1sAxmscWRx0wFpJ_9qTKGE1_bArJL6-XS/view?usp=drive_link" target="_blank" rel="noopener noreferrer">View</a> |
-| Cyber Workshop Certificate | <a href="https://drive.google.com/file/d/1gKyngYjHATjIyzIsV6xpnUW4mOvOKkxC/view?usp=drive_link" target="_blank" rel="noopener noreferrer">View</a> |
-
-## Professional Highlights
-
-- #1 Engineering Design Prize - SRMIST National Design Convention (April 2024), <a href="https://drive.google.com/file/d/1_z0VzTxlZeJNDx9l5mWCyzsXLTPgJcQp/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Proof</a>
-- Mentored 100+ learners through technical content initiatives
-- Strong academic progression with focused cybersecurity specialization
-
-## GitHub Analytics
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=gveerapandi&show_icons=true&hide_border=true&title_color=0B3C5D&icon_color=1D6FA3&text_color=334155&bg_color=ffffff" alt="github stats" />
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=gveerapandi&hide_border=true&ring=0B3C5D&fire=1D6FA3&currStreakLabel=0B3C5D" alt="streak stats" />
+### `[ LANGUAGES & DEV ]`
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Full_Stack-000000?style=for-the-badge&logo=render&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=00FF41" />
 </p>
 
-## Contact
+---
 
+## 🕵️ [ > ] OPERATIONAL_LOGS (EXPERIENCE)
+| TIME_STAMP | OPERATION | FACILITY | CREDENTIALS |
+|:--- |:--- |:--- |:--- |
+| **Jan 26 - Mar 26** | **Ethical Hacking Intern** | **EduSkills Academy** | [VERIFIED](https://drive.google.com/file/d/11KqkF070UOX3Az0FQy-YIA7R_yms8Nbk/view?usp=drive_link) |
+| **Apr 25 - Jun 25** | **Cyber Security Analyst** | **Palo Alto Networks** | [VERIFIED](https://drive.google.com/file/d/19lF-U4AgJ6CrKS8vdRRSNYP977wbkjj6/view?usp=drive_link) |
+| **Jun 25 - Jul 25** | **Email Forensic Research** | **SRMIST** | [VERIFIED](https://drive.google.com/file/d/1Tax_FyHSg0TxQ-kfs6mzhbPaENH7FeSw/view?usp=drive_link) |
+| **Jan 25 - Dec 25** | **Technical Team Member** | **NWC Association** | [VERIFIED](https://drive.google.com/file/d/1HNeMvSXkIFLnA13c5PHFPJSZxcB3uQLp/view?usp=drive_link) |
+| **Nov 24 - Present** | **Member** | **IE(I) NWC Chapter** | [VERIFIED](https://drive.google.com/file/d/1EukatIlGHfP8cx4Xh7lKks8fKbaEIQ0d/view?usp=drive_link) |
 
-- LinkedIn: <a href="https://www.linkedin.com/in/veerapandig/" target="_blank" rel="noopener noreferrer">linkedin.com/in/veerapandig</a>
-- Portfolio: <a href="https://gveerapandi.vercel.app/" target="_blank" rel="noopener noreferrer">gveerapandi.vercel.app</a>
-# gveerapandi
+---
+
+## ⛓️ [ > ] DECRYPTED_PROJECTS
+| TARGET | DESCRIPTION | ENCRYPTION_ENTRY |
+|:--- |:--- |:--- |
+| **[SecureVote](https://secure-vote-nine.vercel.app/)** | Election platform using **AES-256** for secure vote handling. | `[LIVE_ACCESS]` |
+| **[CipherKeep](https://chipherkeep.vercel.app/)** | Security-focused asset management platform. | `[LIVE_ACCESS]` |
+| **[Crop & Carry](https://cropandcarry.vercel.app/)** | Agri-tech marketplace for streamlined commerce. | `[LIVE_ACCESS]` |
+
+---
+
+## 📜 [ > ] SECURED_CERTIFICATIONS
+- **H7Tex International CTF** - [VIEW](https://drive.google.com/file/d/1fQRm1Hl9ZLeHQXGOM21GUnNTq2qUFt8y/view?usp=drive_link)
+- **SRM Valliammai CTF** - [VIEW](https://drive.google.com/file/d/163EOwb6YobYzGwTH-AAnGZ2GZn6PMnzC/view?usp=drive_link)
+- **Fortinet Certified Associate (Cybersecurity)** - [VIEW](https://drive.google.com/file/d/1AP8GXzMY7okdEk7MmpACAOLz_XWJM04P/view?usp=drive_link)
+- **Fortinet Certified Fundamentals** - [VIEW](https://drive.google.com/file/d/1CUQBYLABttXXQRNAi7eJ3p58gIsTSM9j/view?usp=drive_link)
+- **#1 Engineering Design Prize** - SRMIST NDC (April 2024) - [VIEW](https://drive.google.com/file/d/1_z0VzTxlZeJNDx9l5mWCyzsXLTPgJcQp/view?usp=drive_link)
+- **Ultron Certification** - [VIEW](https://drive.google.com/file/d/1sAxmscWRx0wFpJ_9qTKGE1_bArJL6-XS/view?usp=drive_link)
+
+---
+
+## 📊 [ > ] REALTIME_PROFILE_SCAN: `veera-crt`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=veera-crt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=veera-crt&theme=tokyonight&hide_border=true&stroke=00FF41&ring=00FF41&fire=00FF41&online=00FF41" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veera-crt&theme=tokyonight&hide_border=true&area=true&color=00FF41" width="100%" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera-crt&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&bg_color=0D1117" alt="Top Langs" />
+</p>
+
+---
+
+## 📞 [ > ] ENCRYPTED_COMMUNICATION
+- **LinkedIn**: [in/veerapandig](https://www.linkedin.com/in/veerapandig/)
+- **Network Node**: [gveerapandi.vercel.app](https://gveerapandi.vercel.app/)
+- **Transmission Channel**: [YouTube Content](https://www.youtube.com/channel/UCPUS-XlXHCF4PntvyV-WVKg)
+
+---
+
+<center>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=00FF41&text=END_OF_TRANSMISSION&fontSize=20&fontColor=000000" alt="Footer" />
+</center>
