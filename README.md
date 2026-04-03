@@ -51,12 +51,18 @@
 ## 📊 [ REALTIME_SCANNING: veera-crt ]
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veera-crt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera-crt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://img.shields.io/github/followers/veera-crt?label=FOLLOWERS&style=for-the-badge&color=00D4FF&logo=github" />
+  <img src="https://img.shields.io/github/repo-count/veera-crt?label=REPOSITORIES&style=for-the-badge&color=39FF14&logo=github" />
+  <img src="https://img.shields.io/github/stars/veera-crt?label=TOTAL_STARS&style=for-the-badge&color=FF00FF&logo=github" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veera-crt&theme=dracula&hide_border=true&area=true&color=00D4FF" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=veera-crt&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera-crt&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veera-crt&theme=github-vibrant&hide_border=true&area=true&color=00FF41" width="100%" alt="Activity Matrix" />
 </p>
 
 ---
