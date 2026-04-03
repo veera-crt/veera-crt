@@ -48,19 +48,16 @@
 
 ---
 
-## 📊 [ REALTIME_SCANNING: veera-crt ]
+## 📊 [ REALTIME_SCANNING: gveerapandi ]
+> **Note**: Scanning legacy `gveerapandi` node for historical commit data while the new `veera-crt` indexes...
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veera-crt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=veera-crt&theme=tokyonight&hide_border=true&stroke=00D4FF&ring=FF00FF&fire=FF5F1F&online=00FF41" alt="Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gveerapandi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gveerapandi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veera-crt&theme=dracula&hide_border=true&area=true&color=00D4FF" width="100%" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera-crt&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gveerapandi&theme=dracula&hide_border=true&area=true&color=00D4FF" width="100%" alt="Activity Graph" />
 </p>
 
 ---
