@@ -101,5 +101,5 @@ Career objective: build deep expertise as a **Network Security Engineer**.
 
 
 - LinkedIn: <a href="https://www.linkedin.com/in/veerapandig/" target="_blank" rel="noopener noreferrer">linkedin.com/in/veerapandig</a>
-- Portfolio: <a href="https://veera-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">veera-portfolio.vercel.app</a>
+- Portfolio: <a href="https://gveerapandi.vercel.app/" target="_blank" rel="noopener noreferrer">veera-portfolio.vercel.app</a>
 # gveerapandi
