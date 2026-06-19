@@ -78,7 +78,7 @@
 <div align="center">
 
 ![Repos](https://img.shields.io/badge/REPOSITORIES-21-00FF41?style=for-the-badge&labelColor=000000)
-![CGPA](https://img.shields.io/badge/CGPA-8.82%20%2F%2010-00FF41?style=for-the-badge&labelColor=000000)
+![CGPA](https://img.shields.io/badge/CGPA-8.97%20%2F%2010-00FF41?style=for-the-badge&labelColor=000000)
 ![Projects](https://img.shields.io/badge/LIVE_PROJECTS-04-00FF41?style=for-the-badge&labelColor=000000)
 ![Internships](https://img.shields.io/badge/INTERNSHIPS-03-39FF14?style=for-the-badge&labelColor=000000)
 
